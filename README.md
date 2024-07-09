@@ -1,1 +1,1 @@
-simple GUI for translating DNA to proteins. Uses wxPython. Nothing Fancy.
+simple GUI for translating DNA to ammino acids. Uses wxPython. Nothing Fancy.
